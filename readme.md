@@ -1,3 +1,18 @@
+Java can be used to create complete applications that may run on a single computer or be distributed among servers and clients in a network. It can also be used to build a small application module or applet (a simply designed, small application) for use as part of a Web page.
+
+Java is in 2th place among the most popular programming languages.
+
+So, you want to become a Java Developer
+Don't worry we are here.
+
+To learn anything you required a complete path/roadmap for that.
+
+Visit:- https://www.techroadmap.in/language/java-developer/overview/
+
+Content is in the form of Youtube Videos/Playlists.
+
+If you like it, share with your friends/Groups
+
 # Java Developer Roadmap
 
 > Roadmap to becoming a [Java](https://g.co/kgs/bzeRda) developer in 2021:
